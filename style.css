@@ -1,9 +1,9 @@
-body {
+/* body {
   display: flex;
   background-color: rgb(255, 255, 255);
   margin: 0;
   padding: 0;
-}
+} */
 form {
   background-color: rgba(36, 166, 206, 0.363);
   margin: auto;
