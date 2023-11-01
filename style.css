@@ -1,6 +1,5 @@
 body {
   display: flex;
-  /* background-color: rgb(255, 255, 255); */
   margin: 0;
   padding: 0;
 }
@@ -8,10 +7,6 @@ form {
   background-color: rgba(36, 166, 206, 0.363);
   margin: auto;
   margin-top: 50px;
-  /* margin-left:25% ;
-  margin-right: auto;
-  margin-top: 20px;
-  margin-bottom: 20px; */
   padding: 20px 20px 20px 20px;
   border-radius: 5px;
   align-items: center;
@@ -45,7 +40,6 @@ input[type="text"]{
  flex-direction: column;
 }
  select{
-  /* color: #00000093; */
   border-radius: 5px;
   border-style: none;
   width: 100%;
